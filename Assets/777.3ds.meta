@@ -1,0 +1,238 @@
+fileFormatVersion: 2
+guid: ca8ba9742d3ae504196242d12a547e8a
+timeCreated: 1557415345
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Camera
+    100004: Camera.target
+    100006: Componen01
+    100008: Componen02
+    100010: Component_
+    100012: Group1
+    100014: Group11
+    100016: Group2
+    100018: Group3
+    100020: Group4
+    100022: Group5
+    100024: Group8
+    100026: Group_16_1
+    100028: Group_16_2
+    100030: Group_18_1
+    100032: Group_18_2
+    100034: Group_19_1
+    100036: Group_26_1
+    100038: Group_27_1
+    100040: Group_8_1
+    100042: Group_8_2
+    100044: Mesh01
+    100046: Mesh02
+    100048: Mesh03
+    100050: Mesh08
+    100052: Mesh09
+    100054: Mesh146
+    100056: Mesh147
+    100058: Model
+    400000: //RootNode
+    400002: Camera
+    400004: Camera.target
+    400006: Componen01
+    400008: Componen02
+    400010: Component_
+    400012: Group1
+    400014: Group11
+    400016: Group2
+    400018: Group3
+    400020: Group4
+    400022: Group5
+    400024: Group8
+    400026: Group_16_1
+    400028: Group_16_2
+    400030: Group_18_1
+    400032: Group_18_2
+    400034: Group_19_1
+    400036: Group_26_1
+    400038: Group_27_1
+    400040: Group_8_1
+    400042: Group_8_2
+    400044: Mesh01
+    400046: Mesh02
+    400048: Mesh03
+    400050: Mesh08
+    400052: Mesh09
+    400054: Mesh146
+    400056: Mesh147
+    400058: Model
+    2100000: 0011_Sea
+    2100002: Color_00
+    2100004: Delta_01
+    2100006: Delta_Ri
+    2100008: Foregrou
+    2100010: FrontCol
+    2100012: Tail
+    2100014: _Gray6_
+    2100016: _White_
+    2100018: wing
+    2300000: Componen01
+    2300002: Componen02
+    2300004: Component_
+    2300006: Group1
+    2300008: Group11
+    2300010: Group2
+    2300012: Group3
+    2300014: Group4
+    2300016: Group5
+    2300018: Group8
+    2300020: Group_16_1
+    2300022: Group_16_2
+    2300024: Group_18_1
+    2300026: Group_18_2
+    2300028: Group_19_1
+    2300030: Group_26_1
+    2300032: Group_27_1
+    2300034: Group_8_1
+    2300036: Group_8_2
+    2300038: Mesh01
+    2300040: Mesh02
+    2300042: Mesh03
+    2300044: Mesh08
+    2300046: Mesh09
+    2300048: Mesh146
+    2300050: Mesh147
+    2300052: Model
+    3300000: Componen01
+    3300002: Componen02
+    3300004: Component_
+    3300006: Group1
+    3300008: Group11
+    3300010: Group2
+    3300012: Group3
+    3300014: Group4
+    3300016: Group5
+    3300018: Group8
+    3300020: Group_16_1
+    3300022: Group_16_2
+    3300024: Group_18_1
+    3300026: Group_18_2
+    3300028: Group_19_1
+    3300030: Group_26_1
+    3300032: Group_27_1
+    3300034: Group_8_1
+    3300036: Group_8_2
+    3300038: Mesh01
+    3300040: Mesh02
+    3300042: Mesh03
+    3300044: Mesh08
+    3300046: Mesh09
+    3300048: Mesh146
+    3300050: Mesh147
+    3300052: Model
+    4300000: Group_27_1
+    4300002: Group1
+    4300004: Group4
+    4300006: Componen02
+    4300008: Component_
+    4300010: Group_16_1
+    4300012: Group_16_2
+    4300014: Group_18_1
+    4300016: Group8
+    4300018: Mesh08
+    4300020: Mesh09
+    4300022: Group_18_2
+    4300024: Group11
+    4300026: Mesh146
+    4300028: Mesh147
+    4300030: Group2
+    4300032: Group5
+    4300034: Componen01
+    4300036: Group3
+    4300038: Group_19_1
+    4300040: Mesh01
+    4300042: Mesh02
+    4300044: Mesh03
+    4300046: Group_26_1
+    4300048: Group_8_1
+    4300050: Group_8_2
+    4300052: Model
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
